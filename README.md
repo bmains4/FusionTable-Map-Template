@@ -4,7 +4,7 @@
 
 ## Copyright and attribution
 
-Copyright (c) 2015 Derek Eder. Released under the MIT License.
+Copyright (a) 2015 Derek Eder. Released under the MIT License.
 
 If you use this template, please provide the following attribution in the footer: 
 
