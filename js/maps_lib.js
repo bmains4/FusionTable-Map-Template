@@ -86,6 +86,7 @@
         $("#result_box").hide();
 
         //-----custom initializers-----
+        $("#text_search").val("");
         //-----end of custom initializers-----
 
         //run the default search when page loads
